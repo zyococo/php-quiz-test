@@ -12,7 +12,7 @@
         <h1>Quiz!</h1>
 
         <p>
-            クイズの問題が見つかりませんでした。
+            クイズの問題が見つかりませんでした。Practice makes perfect
         </p>
 
         <div class="section">
